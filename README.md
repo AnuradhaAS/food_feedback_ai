@@ -1,11 +1,11 @@
-# Food Feedback AI 🍽️🤖
+# Food Feedback AI 
 
 Live Demo (Google Colab):  
 https://colab.research.google.com/drive/1QjX-J3_1LuVQyimiBVdM3eRxEnU7aEsM?usp=sharing
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 Food Feedback AI is an AI/ML-based sentiment analysis project that analyzes large-scale customer food reviews to understand customer opinions and automatically generate actionable business insights.
 
@@ -15,7 +15,7 @@ The project combines:
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **Amazon Fine Food Reviews Dataset (Kaggle)**
 - Contains **500,000+ customer food reviews**
@@ -35,7 +35,7 @@ The project combines:
 
 ---
 
-## 🧠 Project Workflow
+## Project Workflow
 
 1. Data loading and preprocessing  
 2. Text cleaning and tokenization  
@@ -55,7 +55,7 @@ The project combines:
 
 ---
 
-## 📈 Key Results
+## Key Results
 
 - Majority of customer reviews are **positive**
 - Negative reviews highlight issues related to:
@@ -65,14 +65,14 @@ The project combines:
 
 ---
 
-## 📌 Final Business Insight
+## Final Business Insight
 
 > Customer sentiment is overall **positive**, indicating strong food quality and satisfaction.  
 > However, recurring negative feedback suggests the need to improve delivery speed and customer service for better user experience.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Open the notebook in Google Colab using the link above  
 2. Click **Runtime → Run all**  
@@ -80,7 +80,6 @@ The project combines:
 
 ---
 
-## 👩‍💻 Author
 
 **Anuradha Sarode**  
 MCA Student
